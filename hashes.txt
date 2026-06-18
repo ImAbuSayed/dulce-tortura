@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce tortura
+
+This log tracks the cryptographic history and versioning for the song **Dulce tortura** (dulce-tortura).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:09:22.714571 | `v1` | `3d9aee0456bfe3614200fdc25e136bd9e39a814cef8f3e7aa018ed9cee36dd40` | `081504a862e7fa25fea8da528fd4e12dc8b8040255d71fd638999ba9a5f90a23` | `2026-06-18_dulce-tortura-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

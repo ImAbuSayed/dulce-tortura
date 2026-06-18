@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-tortura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dulce tortura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tortura/) |
+| **Get License** | [License this song: Dulce tortura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tortura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3d9aee0456bfe3614200fdc25e136bd9e39a814cef8f3e7aa018ed9cee36dd40` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
