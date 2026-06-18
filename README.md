@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dulce tortura, baby, you're driving me wild
+> En la disco te busco, you got that dangerous smile
+> Me acerco lento, siento tu calor en la piel
+> Esta noche es nuestra, un juego de fuego y miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
